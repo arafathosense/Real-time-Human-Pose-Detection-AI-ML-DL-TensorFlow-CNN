@@ -38,7 +38,6 @@ Overall, real-time human pose detection is a highly valuable field that combines
 
 
 
-
 **Also, output the video to the file. Please check.**
 
 
